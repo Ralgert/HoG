@@ -1,0 +1,14 @@
+// ==UserScript==
+// @name        HoG lorem
+// @namespace   https://github.com/Ralgert/HoG
+// @match       *://*.konggames.com/gamez/*
+// @match       *://*.heartofgalaxy.com/*
+// @grant       GM_addStyle
+// @version     0.0.0
+// @author      Ralgert
+// @description 2026 - Für das Spiel Heart of Galaxy: Horizons.
+// @description ipsum
+// @downloadURL https://raw.githubusercontent.com/Ralgert/HoG/main/.js
+// @updateURL   https://raw.githubusercontent.com/Ralgert/HoG/main/.js
+// ==/UserScript==
+
